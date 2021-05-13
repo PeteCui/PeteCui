@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @PeteCui
-- 👀 I’m interested in nothing
 - 🌱 I’m currently learning distributed system/software engineering
 - 💞️ I’m looking to collaborate on system development
 
