@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @PeteCui
-- 🌱 I’m currently learning distributed system/software engineering
-- 💞️ I’m looking to collaborate on system development
 
 <!---
 PeteCui/PeteCui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
